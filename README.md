@@ -18,23 +18,23 @@ Repository Structure
 
 pinescript-trading-systems/
 ── indicators
-  ├──  sma_ema_crossover.pine
-  ├── trend_filters.pine
-  └── volatility_filters.pine
+  sma_ema_crossover.pine
+  trend_filters.pine
+  volatility_filters.pine
 
 ── strategies/
- ├── sma_ema_strategy.pine
- └── trend_following_strategy.pine
+ sma_ema_strategy.pine
+ trend_following_strategy.pine
 
 ── alerts/
- ├── webhook_examples.md
- └── alert_message_templates.md
+ webhook_examples.md
+ alert_message_templates.md
 
 ── docs/
- ├── design_principles.md
- └── state_handling.md
+ design_principles.md
+ state_handling.md
 
-└── README.md
+README.md
 
 Design Principles
 All scripts in this repository adhere to the following principles:
