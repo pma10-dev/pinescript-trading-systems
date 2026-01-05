@@ -17,7 +17,7 @@ Objectives
 Repository Structure
 
 pinescript-trading-systems/
-── indicators/
+── indicators
   ├──  sma_ema_crossover.pine
   ├── trend_filters.pine
   └── volatility_filters.pine
